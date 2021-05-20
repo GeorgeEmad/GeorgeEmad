@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @GeorgeEmad
+- 🌱 I’m currently learning web development and ML
